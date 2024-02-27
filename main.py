@@ -8,8 +8,8 @@ from alpaca.trading.enums import OrderSide, TimeInForce, OrderClass
 
 
 # Replace these with your own API key and secret key
-API_KEY = 'PKT3I438NCXYNMA6LTWY'
-SECRET_KEY = 'f0us7MRfXfXU4flqd54oRkHMT8uYFZ4qd8Njb5hC'
+API_KEY = 'api-key'
+SECRET_KEY = 'secret-key'
 
 trading_client = TradingClient(API_KEY, SECRET_KEY)
 
