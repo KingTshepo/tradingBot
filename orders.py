@@ -2,6 +2,7 @@
 This file just executes the orders
 
 written by: Tshepo Maredi
+
 """
 
 from alpaca.trading.requests import MarketOrderRequest, TakeProfitRequest, StopLossRequest

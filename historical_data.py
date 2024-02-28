@@ -2,6 +2,7 @@
 This file performs the requests to get the historical data for an asset
 
 written by: Tshepo Maredi
+
 """
 
 from alpaca.data.historical import StockHistoricalDataClient
