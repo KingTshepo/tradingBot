@@ -9,8 +9,8 @@ from alpaca.data.requests import StockBarsRequest
 from alpaca.data.timeframe import TimeFrame
 from datetime import datetime
 
-API_KEY = 'PKT3I438NCXYNMA6LTWY'
-SECRET_KEY = 'f0us7MRfXfXU4flqd54oRkHMT8uYFZ4qd8Njb5hC'
+API_KEY = 'api-key'
+SECRET_KEY = 'secret-key'
 
 # No keys required for crypto data
 historical_data_client = StockHistoricalDataClient(api_key=API_KEY, secret_key=SECRET_KEY)
