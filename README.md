@@ -32,7 +32,7 @@ This project implements an automated trading bot in Python that utilizes a movin
 
 5. Run the bot:
    ```bash
-   python tradingBot.py
+   python main.py
    ```
 
 ## Usage
